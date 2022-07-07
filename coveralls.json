@@ -1,0 +1,9 @@
+{
+  "skip_files": [
+    "lib/repos_find/application.ex",
+    "lib/repos_find_web.ex",
+    "lib/repos_find_web/telemetry.ex",
+    "lib/repos_find_web/views/error_helpers.ex",
+    "test/support/"
+  ]
+}
